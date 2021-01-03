@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54386980232",
+    "firebase_url": "https://project-android-c3273.firebaseio.com",
+    "project_id": "project-android-c3273",
+    "storage_bucket": "project-android-c3273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54386980232:android:9f7437214e13cb93",
+        "android_client_info": {
+          "package_name": "com.example.projectandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54386980232-u83nsqv6sd2c49ss4asquahl0serv0ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFcMbdreNNPf9-AggSRNYBt6TQLIZ5gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54386980232-u83nsqv6sd2c49ss4asquahl0serv0ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
